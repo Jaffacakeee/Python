@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="410ab04b-89fa-4553-a21a-aa89386bbad6" name="Default Changelist" comment="" />
+    <list default="true" id="410ab04b-89fa-4553-a21a-aa89386bbad6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +31,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1mqECzP4EpuMSxkbFZWtcI4PAbX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +50,7 @@
       <recent name="C:\Users\PTben\Desktop\Python\100 Days of Code\Day 2 - Data Types" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ceasar_cipher">
+  <component name="RunManager" selected="Python.function_output">
     <configuration name="RPS" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,6 +127,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/100 Days of Code/Day 8 - Functions/function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function_output" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/100 Days of Code/Day 10 - Functions with outputs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/100 Days of Code/Day 10 - Functions with outputs/function_output.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,15 +262,16 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.RPS" />
       <item itemvalue="Python.bandname" />
+      <item itemvalue="Python.ceasar_cipher" />
+      <item itemvalue="Python.function_output" />
+      <item itemvalue="Python.function" />
+      <item itemvalue="Python.hangman" />
+      <item itemvalue="Python.loops" />
+      <item itemvalue="Python.replacing_treasure" />
       <item itemvalue="Python.tip" />
       <item itemvalue="Python.treasure" />
-      <item itemvalue="Python.RPS" />
-      <item itemvalue="Python.loops" />
-      <item itemvalue="Python.hangman" />
-      <item itemvalue="Python.function" />
-      <item itemvalue="Python.ceasar_cipher" />
-      <item itemvalue="Python.replacing_treasure" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
